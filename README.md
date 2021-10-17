@@ -1,6 +1,8 @@
-## Your Name
+## Will Birdseye
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an ex-teacher trying to fervently prove that the old addage of "Those who can't... teach" doesn't apply to me. I have been a successful and dedicated educator (with a specialism in the teaching of computing) that spent over a decade helping others reach their potential and introduced computing and coding curriculum changes to a generation developing both their, and my own, love of technology and its potential to support lives. Within this time it has been a privilege to develop passions and the decision to pursue my own within web development. My interest in coding dates back as far as writing lines of script in my teenage years to make the playing of online text-based MUD games easier to win and the child-like enthusiasm and competitiveness within this interest has only grown and developed over the years rather than diminished. 
+
+I have been excited to extend my self-directed study through my acceptance to the 12 week intensive Makers Academy coding bootcamp, and through the completion of this course feel more capable to take on a junior developer role. 
 
 ## Projects
 
@@ -11,20 +13,29 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Stokenchurch Primary School** (01-2011 to 07-2021)  
+Class Teacher and Computing curriculum leader
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Curriculum and Year leader responsibilities requiring scheduling and delegation responsibilities
+- Computing curriculum development and planning: Developing a scheme of work to develop pupils' skills in HTML and logical thinking using Scratch and Kodu programming software.
+- Curriculum planning integration: Lead staff training to ensure colleagues felt confident and capable to deliver the 'coding curriculum'.
+- Developed a host of professional and interpersonal skills (see Skills section for further details) relating to: deadline management, studying skills, adaptability, commitment, collaborative working, rigorous attention to detail and creativity. 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+Deadline management:
+
+Studying skills:
+
+Adaptability:
+
+Commitment:
+
+Collaborative working:
+
+Attention to detail:
+
+Creativity:
 
 -STAR
 -What was the situation/task? (ST)
@@ -53,7 +64,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (09-2021 to 01-2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,7 +73,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### DeMontfort University (start_date to end_date)
 
 - Subject, any specialisms
 - Grade
